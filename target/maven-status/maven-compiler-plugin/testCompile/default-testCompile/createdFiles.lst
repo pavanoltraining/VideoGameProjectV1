@@ -1,0 +1,5 @@
+testCases\TC_Post_VideoGame_DDT.class
+testCases\TC_VideoGameAPI_Tests.class
+testCases\TC_Post_VideoGame_Pojo.class
+utilities\XLUtils.class
+helper\VideoGame.class

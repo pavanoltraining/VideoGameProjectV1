@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="video game suite">
+	<test name="video game tests">
+		<classes>
+			<class name="testCases.TC_VideoGameAPI_Tests" />
+			<!-- <class name="testCases.TC_Post_VideoGame_Pojo" />
+			<class name="testCases.TC_Post_VideoGame_DDT" /> -->
+		</classes>
+	</test>
+</suite>
